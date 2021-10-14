@@ -1,6 +1,6 @@
 # Book settings
-title: Physics 111 
-author: Firas Moosvi
+title: The Science of Data 
+author: Sandra Roy
 logo: images/logo.jpg
 copyright: ""
 exclude_patterns: ["LICENSE.md", "README.md"]
